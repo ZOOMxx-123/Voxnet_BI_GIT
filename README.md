@@ -73,23 +73,6 @@ Le projet répond au besoin de **réconciliation** entre :
 - ✅ **Filtres** par disposition (ANSWERED, NO ANSWER, BUSY)
 - ✅ **Recherche** par numéro ou extension
 
-## 📸 Captures d'écran
-
-### Dashboard Principal
-```
-[Capture d'écran du dashboard à ajouter]
-```
-
-### Gestion des Agents
-```
-[Capture d'écran de la gestion des agents à ajouter]
-```
-
-### Données Métier
-```
-[Capture d'écran des leads à ajouter]
-```
-
 ## 🛠 Technologies utilisées
 
 ### Backend
