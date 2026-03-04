@@ -1,0 +1,75 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,.05);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 25px rgba(0,0,0,.1);
+}
+
+.card-header {
+    border-radius: 10px 10px 0 0 !important;
+    font-weight: 500;
+}
+
+.badge {
+    padding: 5px 10px;
+    font-size: 0.85em;
+}
+
+.table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+}
+
+.progress {
+    border-radius: 10px;
+}
+
+.btn {
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-weight: 500;
+}
+
+.btn-sm {
+    padding: 5px 10px;
+}
+
+.modal-content {
+    border: none;
+    border-radius: 10px;
+}
+
+.modal-header {
+    border-radius: 10px 10px 0 0;
+    color: white;
+}
+
+.datatable {
+    margin-top: 15px;
+}
+
+.dataTables_filter {
+    margin-bottom: 15px;
+}
+
+/* Couleurs personnalisées */
+.bg-primary { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+.bg-success { background: linear-gradient(135deg, #28a745 0%, #20c997 100%); }
+.bg-info { background: linear-gradient(135deg, #17a2b8 0%, #0099ff 100%); }
+.bg-warning { background: linear-gradient(135deg, #ffc107 0%, #fd7e14 100%); }
+.bg-danger { background: linear-gradient(135deg, #dc3545 0%, #c82333 100%); }
+.bg-secondary { background: linear-gradient(135deg, #6c757d 0%, #545b62 100%); }
