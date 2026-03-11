@@ -509,10 +509,6 @@ Renvoie les données pour les graphiques au format JSON :
 ## 🙏 Remerciements
 
 - **Voxnet** pour l'opportunité de stage
-- **Bootstrap** pour le framework CSS
-- **Chart.js** pour les graphiques
-- **DataTables** pour les tableaux interactifs
-
 
 ---
 
